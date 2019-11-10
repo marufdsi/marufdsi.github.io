@@ -1,7 +1,7 @@
 # Md Maruf Hossain
-##Reasearch Assistant
+## Reasearch Assistant
 
-##University of North Carolina at Charlotte
+## University of North Carolina at Charlotte
 
 ### Markdown
 
